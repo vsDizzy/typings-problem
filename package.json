@@ -1,0 +1,13 @@
+{
+  "name": "typings-problem",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "install": "typings install",
+    "start": "tsc --pretty"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.0",
+    "typings": "^1.3.1"
+  }
+}
